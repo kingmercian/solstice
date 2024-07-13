@@ -39,7 +39,7 @@ Currently the stage2 shellcode attempts to open and run `run.exe` out of GameScr
 1. Build necessary stages with:
 
 ```
-just generate-dev
+just generate-network
 ```
 
 2. Copy `outputs/gamescript_autosave_network.txt` to GameScript
